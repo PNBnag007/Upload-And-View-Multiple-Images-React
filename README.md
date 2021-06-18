@@ -15,8 +15,9 @@ Entire functionality of the application is on client-side only.
 ### Installation
 
 Execute the following command -
-
+```
 npm install
+```
 ```
 npm start
 ```
