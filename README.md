@@ -1,6 +1,6 @@
 Author : Pulla Nagendra Babu.
 
-# Upload And View Multiple Images int React.
+# Upload And View Multiple Images in React.
 
 This is an REACT Application using only React Js and javascript.
 
