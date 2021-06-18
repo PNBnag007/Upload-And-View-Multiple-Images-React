@@ -27,6 +27,6 @@ Application starts running on `http://localhost:3000`
 
 This application is deployed on Netlify platform.
 
-Application is available here <a>https://pensive-liskov-fe8da8.netlify.app/</a>
+Deployed Application is available here: <a>https://pensive-liskov-fe8da8.netlify.app/</a>
 
 
