@@ -21,7 +21,7 @@ const App = () => {
 
 	return (
 		<div className="app">
-			<div className="heading"> Hlooo! React Upload And View Multiple Images</div>
+			<div className="heading">React Upload And View Multiple Images</div>
 			<div>
 				<input type="file" id="file" multiple onChange={uploadedImage} />
 				<div className="label-holder">
