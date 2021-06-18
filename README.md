@@ -1,8 +1,6 @@
 Author : Pulla Nagendra Babu.
 
-<p align="center">
   [![Netlify Status](https://api.netlify.com/api/v1/badges/678f0b57-e135-49c8-9ceb-624414b0d741/deploy-status)](https://app.netlify.com/sites/pensive-liskov-fe8da8/deploys)
-</p>
 
 # Upload And View Multiple Images in React.
 
