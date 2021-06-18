@@ -12,4 +12,14 @@ No backend and No database is used.
 
 Entire functionality of the application is on client-side only.
 
+### Installation
+
+Execute the following command -
+
+npm install
+```
+npm start
+```
+Application starts running on `http://localhost:3000`
+
 
