@@ -23,4 +23,10 @@ npm start
 ```
 Application starts running on `http://localhost:3000`
 
+### Deployment
+
+This application is deployed on Netlify platform.
+
+Application is available here <a>https://pensive-liskov-fe8da8.netlify.app/</a>
+
 
